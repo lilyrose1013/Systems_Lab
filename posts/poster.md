@@ -1,8 +1,8 @@
 --- 
 title: Poster
-date: 2025-10-04
+date: 2025-10-05
 layout: post.njk
 tags: post 
 ---
-# Poster
+# Poster Post
 This is a page for my first post.
