@@ -2,8 +2,8 @@ const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   // Copy static assets
-  eleventyConfig.addPassthroughCopy("styles");
-  eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("_styles");
+  eleventyConfig.addPassthroughCopy("_assets");
 
   // Date filter
   eleventyConfig.addFilter("readableDate", (dateObj) => {
