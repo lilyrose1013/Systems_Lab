@@ -6,6 +6,7 @@
  "scripts": {
     "clean": "powershell -Command \"if (Test-Path docs) { Remove-Item -Recurse -Force docs }; if (Test-Path _site) { Remove-Item -Recurse -Force _site }\"",
     "build": "powershell -Command \"$env:ELEVENTY_ENV='production'; npx @11ty/eleventy\"",
+    "start": "npx @11ty/eleventy --serve",
     "serve": "npx @11ty/eleventy --serve"
   },
 
