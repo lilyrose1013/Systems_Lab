@@ -2,6 +2,6 @@
 title: Home
 layout: base.njk
 ---
-# Welcome to my blog!
+# MEow Meow GRAND CENTRAl!
 
 This page is using a general layout. 
