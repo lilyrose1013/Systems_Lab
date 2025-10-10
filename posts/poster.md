@@ -5,4 +5,6 @@ layout: post.njk
 tags: post 
 ---
 # Poster Post
-This is a page for my first post.
+This is my Poster of how my experiance collecting data from Grand Central
+
+![Map GCT](/Systems_Lab/_assets/Map_GCT.png)
