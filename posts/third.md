@@ -8,5 +8,6 @@ tags: post
 
 <div style="text-align: center;">
 # Third Post
-This is a page for my first post.
+This is my Poster of how my experiance collecting data from Grand Central
+![Map GCT]({{ pathPrefix }}_assets/Map_GCT.png)
 </div>

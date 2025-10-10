@@ -6,6 +6,8 @@ tags: post
 ---
 
 <div style="text-align: center;">
-# Second Post
+#Second Post
+
+
 This is a page for my first post. 
 </div>
