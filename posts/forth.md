@@ -4,6 +4,8 @@ date: 2025-10-04
 layout: post.njk
 tags: post 
 ---
+
+<link rel="stylesheet" href="{{ 'styles/styles.css' | prefixedUrl }}">
 <div style="text-align: center;">
 <h1> These are some of marmalades favorite food that he eats everyday</h1>
 </div>
