@@ -18,7 +18,9 @@ tags: post
         <img src="/_assets/Soup.png" alt="Soup" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;">
         <img src="/_assets/Kibble.png" alt="Kibble" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;">
       </div>
-    
+    <div style="text-align: center;">
+     <img src="/_assets/Eat.png" alt="Eat" style="width: 300px; height: 300px; object-fit: cover; border-radius: 5px;">
+     </div>
  
   </div>
 </div>

@@ -14,3 +14,8 @@ tags: post
 <img src="/_assets/MarmClean.png" alt="Marm Clean" style="max-width: 400px; margin: 10px 0;">
 
 </div>
+
+<div style="text-align: center;">
+<img src="/_assets/Mouth.png" alt="Mouth" style="max-width: 400px; margin: 10px 0;">
+
+</div>
