@@ -7,6 +7,8 @@ tags: post
 
 
 <div style="text-align: center;">
-# Third Post
+<h1> These are some silly Photos of marm... All photos of him are silly but these are some more<h1>
+
+<img src="/_assets/MarmClean.png" alt="Marm Clean" style="max-width: 400px; margin: 10px 0;">
 
 </div>

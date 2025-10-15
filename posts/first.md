@@ -9,10 +9,10 @@ tags: post
 
 <h1 style="text-align: center;">How I got Marmalade </h1>
 
+<img src="/_assets/MarmPillow.png" alt="Marmalade on pillow" style="display: block; margin: 10px auto; max-width: 400px;">
+
 <p style="text-align: center;">I was on the search for a cat after I was in a car crash, as a way to support me through the hard times. <br> 
-I had always wanted a cat, as they where my favorite animals, and my grandma Had a cat who when I would visit would be cutest little thing <br>
-//(image)//
- I was on facebook and I saw a family who was getting rid of there family cat<br>
+I had always wanted a cat, as they where my favorite animals, and my grandma Had a cat who when I would visit would be cutest little thing <br> I was on facebook and I saw a family who was getting rid of there family cat<br>
 So I viewed it as a sign from the universe  </p>
 
 
