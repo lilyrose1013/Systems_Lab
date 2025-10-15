@@ -9,6 +9,15 @@ h1{
     color: rgb(255, 0, 247);
     font-weight: 700;
 }
+ 
+h2{
+     color: rgb(255, 0, 247);   
+}
+
+h3{
+     color: rgb(255, 0, 64);  
+     font-weight: 500; 
+}
 
 .syne-mono-regular {
   font-family: "Syne Mono", monospace;

@@ -21,8 +21,8 @@
 
 
      {% if collections.post and collections.post.length > 0 %}
-        <h2>Latest Posts</h2>
-        <ul>
+        <h2 style="text-align: center;">Latest Posts</h2>
+        <ul style="text-align: center;">
             {% for post in collections.post %}
             <li><a href="{{ post.url | prefixedUrl }}">{{ post.data.title }}</a> – {{ post.data.date | readableDate }}</li>
             {% endfor %}
