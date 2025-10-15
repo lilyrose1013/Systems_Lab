@@ -7,7 +7,7 @@ tags: post
 
 # Silly Silly
 <div style="text-align: center;">
-<img src="/_assets/Silly.png" alt="Silly Marmalade with ears pulled back" style="max-width: 500px; height: auto;">
+<img src="{{ '/_assets/Silly.png' | prefixedUrl }}" alt="Silly Marmalade with ears pulled back" style="max-width: 500px; height: auto;">
 <h1> This I marmalade with his ears pulled back<br>
 The END....
  

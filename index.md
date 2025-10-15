@@ -7,7 +7,7 @@ layout: base.njk
 <p style="text-align: center; font-size: 2em;">This is a blog dedicated to my Cat Marmalade, he is Orange and 4 years old</p> 
 
 <div style="text-align: center;">
-    <img src="/_assets/MarmStanding.png" alt="Marmalade standing" style="max-width: 200px; height: auto;">
+    <img src="{{ '/_assets/MarmStanding.png' | prefixedUrl }}" alt="Marmalade standing" style="max-width: 200px; height: auto;">
     <p>
     Nicknames:<br>
     - Marmie <br>
